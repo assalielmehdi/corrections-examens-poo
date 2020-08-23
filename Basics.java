@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class Basics {
   public static void main(String[] args) throws Throwable {
     // boolean: true or false
     boolean isTrue = false;
